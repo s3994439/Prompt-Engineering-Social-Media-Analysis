@@ -23,7 +23,7 @@ The project analyzes over 50,000 social media comments related to prompt enginee
 
 
 
-## 🔍 Key Insights
+##  Key Insights
 
 - Prompt engineering discussions are heavily influenced by trending AI tools and platforms.
 - Reddit communities exhibit more polarized sentiment than YouTube.
